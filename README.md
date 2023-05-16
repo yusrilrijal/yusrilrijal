@@ -99,18 +99,19 @@ I am a creative🎡, time punctual👨🏼‍🎓, dedicated🎯, goal-oriented 
   <br/>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=yusrilrijal&custom_title=yusrilrijal's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
+</details>
 
 <!-- https://github.com/sisodiya2421 -->
 
-## 🙋‍♂️♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 
 <p align="center">
-	<a href="https://yusrilrijal.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+<!-- 	<a href="https://yusrilrijal.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
 	<a href="https://github.com/yusrilrijal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/yusrilrijal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/yusrilrijal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/yusrilrijal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:yusrilrijal.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:yusrilrijal.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
 <!-- [![@yusrilrijal's Holopin board](https://holopin.io/api/user/board?user=yusrilrijal)](https://holopin.io/@yusrilrijal)
